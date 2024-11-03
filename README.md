@@ -1,1 +1,2 @@
 # Simulate-Probability-Experiments
+Overall, the program is designed to facilitate learning and experimentation with basic probability concepts by providing straightforward simulations of common probabilistic events. It allows users to visualize and quantify randomness and probability distributions in an accessible and interactive manner. This can be particularly helpful for students or anyone new to the concepts of statistics and probability theory.
